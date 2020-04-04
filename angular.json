@@ -116,6 +116,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "APM"
+    }
+  },
+  "defaultProject": "APM",
+  "cli": {
+    "analytics": "6a06ce38-48bb-4691-bab7-49aa4edbc790"
+  }
 }
